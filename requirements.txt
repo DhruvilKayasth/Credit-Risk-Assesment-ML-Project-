@@ -3,6 +3,7 @@ uvicorn==0.32.1
 pydantic==2.10.3
 pandas==2.2.3
 joblib==1.4.2
+xgboost==3.4.1
 
 # IMPORTANT: use the exact scikit-learn version you trained the model with
 # (run `pip show scikit-learn` in your training environment), otherwise
